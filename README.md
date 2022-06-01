@@ -1,5 +1,5 @@
 # DINO-MM
-Self-supervised vision transformers for joint SAR-optical representation learning, IGARSS 2022.
+[Self-supervised vision transformers for joint SAR-optical representation learning, IGARSS 2022](https://arxiv.org/abs/2204.05381)
 
 
 *Note: Codes developed under multi-GPU slurm environment, a cleaner version to be organized.*
