@@ -13,3 +13,9 @@ run `sbatch scripts/slurm/sar_optical/srun_xxx.sh`
 ### pre-trained model
 
 DINO-MM with ViT-S/8, input 14 bands: [checkpoint](https://smtaschool-my.sharepoint.com/:u:/g/personal/e3819_365e_live/EduwHbFkMe5JuCufw_97eRUBD-l9_8EzYbMETzTzCLUfzQ?e=gwcPve), [training log](checkpoints/pretrain_log.txt)
+
+
+## Further reads
+"Self-supervised Learning in Remote Sensing: A Review". [paper](https://arxiv.org/abs/2206.13188) | [Repository](https://github.com/zhu-xlab/SSL4EO-Review)
+
+"SSL4EO-S12: A Large-Scale Multi-Modal, Multi-Temporal Dataset for Self-Supervised Learning in Earth Observation". [Paper](https://arxiv.org/abs/2211.07044) | [Repository](https://github.com/zhu-xlab/SSL4EO-S12)
